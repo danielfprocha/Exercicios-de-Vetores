@@ -1,2 +1,2 @@
 # Exercicios de Vetores
-Atividades com Arrays (vetores) em Java
+Atividades com Arrays (vetores) em Java.
